@@ -1,0 +1,17 @@
+@media screen and (min-width: 768px) {
+  .App .main {
+    display: flex;
+    margin: 50px;
+  }
+  .Votes {
+    flex: 1;
+  }
+  .AdDesigner {
+    flex: 1;
+  }
+}
+
+/* .App .Header {
+  display: flex;
+  justify-content: space-between;
+} */

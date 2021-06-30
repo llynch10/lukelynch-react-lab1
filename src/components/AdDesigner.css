@@ -1,0 +1,15 @@
+.AdDesigner .ad {
+  border: 1px solid black;
+  width: fit-content;
+  padding: 10px;
+  margin: 10px;
+}
+
+.AdDesigner .dark {
+  background-color: black;
+  color: white;
+}
+
+.AdDesigner .flavor {
+  font-family: "Caveat", cursive;
+}
